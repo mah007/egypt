@@ -9,6 +9,7 @@
     'author': 'Mahmoud Abdel Latif',
     'website': 'http://www.mah007.com',
     'category': 'Localization',
+    'license': 'AGPL-3',
     'description': """
 Arab Republic of Egypt accounting chart and localization. 
 =======================================================
