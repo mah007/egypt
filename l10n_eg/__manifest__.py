@@ -5,7 +5,7 @@
 
 {
     'name': 'Egypt - Accounting',
-    'version': '11.0',
+    'version': '10.0',
     'author': 'Mahmoud Abdel Latif',
     'website': 'http://www.mah007.com',
     'category': 'Localization',
