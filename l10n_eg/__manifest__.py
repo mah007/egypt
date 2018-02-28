@@ -10,7 +10,7 @@
     'website': 'http://www.mah007.com',
     'category': 'Localization',
     'description': """
-Arab Republic of Egypt accounting chart and localization.
+Arab Republic of Egypt accounting chart and localization. 
 =======================================================
 
     """,
