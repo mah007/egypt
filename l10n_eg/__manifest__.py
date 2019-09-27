@@ -11,7 +11,7 @@
     'category': 'Localization',
     'license': 'AGPL-3',
     'description': """
-Arab Republic of Egypt accounting chart and localization.
+Arab Republic of Egypt accounting chart and localization. 
 =======================================================
 
     """,
